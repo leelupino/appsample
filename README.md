@@ -1,2 +1,2 @@
-# My beautiful sample app
+## My sample app
 This is a sample app
